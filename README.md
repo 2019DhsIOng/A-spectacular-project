@@ -1,2 +1,2 @@
 # A-spectacular-project
-it is an amazing project :D 
+This is my hacktoberfest entry 
